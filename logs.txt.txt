@@ -1,0 +1,5 @@
+commit c0fdfe851e62dfd7257e4a69d2ded2ecd0733777 (HEAD -> logs, origin/master, master)
+Author: Angela Ninik <Angela.Ninikj@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:44:55 2019 +0200
+
+    Initial commit
